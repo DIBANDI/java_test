@@ -1,2 +1,3 @@
 a+b=c
+Cette operation fait de l'addition
 a*b=d
