@@ -1,3 +1,8 @@
 a+b=c
+<<<<<<< HEAD
 a*b=d
 Cette operation fait de la multiplication
+=======
+Cette operation fait de l'addition
+a*b=d
+>>>>>>> rols
